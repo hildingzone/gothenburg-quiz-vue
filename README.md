@@ -1,4 +1,4 @@
-# Vue-Game-Test
+# Gothenburg quiz game made in Vue
 
 ## Project setup
 ```
